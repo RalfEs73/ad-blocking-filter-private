@@ -7,7 +7,7 @@
 Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter-private/main/filters/adblock.txt
+https://raw.githubusercontent.com/RalfEs73/ublock-filter-private/main/filters/adblock.txt?token=XXXXXXXXX
 ```
 
 
