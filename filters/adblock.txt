@@ -8,16 +8,3 @@
 ! http://192.168.0.62:2283 (Immich Photo Server)
 192.168.0.62##.text-sm.ps-4.license-status
 
-! Freigabe
-@@||ha^$document
-@@||cloud.microsoft^$document
-@@||azure.com^$document
-@@||github.com^$document
-@@||microsoft.cloud^$document
-@@||microsoft.com^$document
-@@||microsoftalumni.com^$document
-@@||office.com^$document
-@@||pok.tech^$document
-@@||ralfes.cloud^$document
-@@||sharepoint.com^$document
-@@||zigarren-db.de^$document
