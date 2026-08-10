@@ -3,7 +3,11 @@
 </p>
 
 # uBlock Origin & AdGuard Private Filter
-Letzter Update der Listen: 10.08.2026 22:21 Uhr.
+Letzter Update der Listen: 10.08.2026 22:22 Uhr.
+
+## Einträge in den Listen
+Werbe Block List: 1 Einträge  
+Whitelist: 16 Einträge
 
 ## How to use
 Fügen die folgenden Links zu den uBlock Origin bzw. AdGuard Filtern hinzu:
