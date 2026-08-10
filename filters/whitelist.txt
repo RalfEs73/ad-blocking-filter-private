@@ -18,3 +18,5 @@
 @@||ralfes.net^$document
 @@||sharepoint.com^$document
 @@||zigarren-db.de^$document
+@@||coyocloud.com^$document
+@@||atlassian.net^$document
