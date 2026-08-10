@@ -15,5 +15,6 @@
 @@||office.com^$document
 @@||pok.tech^$document
 @@||ralfes.cloud^$document
+@@||ralfes.net^$document
 @@||sharepoint.com^$document
 @@||zigarren-db.de^$document
