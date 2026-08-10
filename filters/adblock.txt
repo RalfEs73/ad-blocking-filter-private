@@ -2,10 +2,10 @@
 ! Description: Filters focusing on web advertising, banners, popups and sponsored content
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter-privat
-! Last modified: Mon, 10 Aug 2026 20:31:15 +0000
+! Last modified: Mon, 10 Aug 2026 20:39:38 +0000
 ! Expires: 1 day
 ! License: MIT
 
 ! 192.168.0.62:2283
-192.168.0.62:2283###sidebar > div.flex.h-max.min-h-full.flex-col.gap-1.pe-6:nth-child(3) > div.license-status.ps-4.text-sm:nth-child(14) > button.mt-2.flex.w-full.min-w-52.place-content-center.place-items-center.justify-between.rounded-lg.border.border-immich-primary\/20.p-2.shadow-md.dark\:border-immich-dark-primary\/10.dark\:bg-immich-dark-primary\/10 > div.flex.w-full.place-content-center.place-items-center.justify-between
+192.168.0.62###sidebar > div.flex.h-max.min-h-full.flex-col.gap-1.pe-6:nth-child(3) > div.license-status.ps-4.text-sm:nth-child(14) > button.mt-2.flex.w-full.min-w-52.place-content-center.place-items-center.justify-between.rounded-lg.border.border-immich-primary\/20.p-2.shadow-md.dark\:border-immich-dark-primary\/10.dark\:bg-immich-dark-primary\/10 > div.flex.w-full.place-content-center.place-items-center.justify-between
 
