@@ -1,10 +1,11 @@
 ! Title: RalfEs – uBlock Origin Ads Filter Private
 ! Description: Filters focusing on web advertising, banners, popups and sponsored content
 ! Author: Ralf Essbaumer
-! Homepage: https://github.com/RalfEs73/ublock-filter-private
+! Homepage: https://github.com/RalfEs73/ublock-filter-privat
+! Last modified: Mon, 10 Aug 2026 20:10:24 +0000
 ! Expires: 1 day
 ! License: MIT
 
-! http://192.168.0.62:2283 (Immich Photo Server)
-192.168.0.62##.text-sm.ps-4.license-status
+! 192.168.0.62:2283
+##.text-sm.ps-4.license-status
 
