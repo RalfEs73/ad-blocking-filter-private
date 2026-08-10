@@ -10,6 +10,9 @@ Fügen die folgenden Links zu den uBlock Origin bzw. AdGuard Filtern hinzu:
 ```sh
 https://raw.githubusercontent.com/RalfEs73/ublock-filter-private/main/filters/adblock.txt
 ```
+```sh
+https://raw.githubusercontent.com/RalfEs73/ublock-filter-private/main/filters/whitelist.txt
+```
 
 ### Youtube Videoanleitung
 [![Youtube](https://img.youtube.com/vi/qT_rit7xd-k/0.jpg)](https://www.youtube.com/watch?v=qT_rit7xd-k)
