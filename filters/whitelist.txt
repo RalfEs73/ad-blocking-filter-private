@@ -2,9 +2,24 @@
 ! Description: Whitelist for trusted domains to bypass filtering, blocking and cosmetic rules
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter-private
-! Last modified: Mon, 10 Aug 2026 20:02:11 +0000
+! Last modified: Mon, 10 Aug 2026 20:04:59 +0000
 ! Expires: 1 day
 ! License: MIT
 
 
+@@||atlassian.net^$document
+@@||azure.com^$document
 @@||cloud.microsoft^$document
+@@||coyocloud.com^$document
+@@||github.com^$document
+@@||ha^$document
+@@||microsoft.cloud^$document
+@@||microsoft.com^$document
+@@||microsoftalumni.com^$document
+@@||office.com^$document
+@@||pok.tech^$document
+@@||ralfes.cloud^$document
+@@||ralfes.net^$document
+@@||rexx-systems.com^$document
+@@||sharepoint.com^$document
+@@||zigarren-db.de^$document
