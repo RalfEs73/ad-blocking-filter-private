@@ -3,6 +3,7 @@
 </p>
 
 # uBlock Origin & AdGuard Private Filter
+Letzter Update der Listen: 10.08.2026 22:21 Uhr.
 
 ## How to use
 Fügen die folgenden Links zu den uBlock Origin bzw. AdGuard Filtern hinzu:
