@@ -2,7 +2,7 @@
     <img width="275" alt="AdGuard Filters logo" src="https://cdn.adtidy.org/website/github.com/AdguardFilters/viking.svg" />
 </p>
 
-# uBlock Origin & AdGuard Filter
+# uBlock Origin & AdGuard Private Filter
 
 ## How to use
 Fügen die folgenden Links zu den uBlock Origin bzw. AdGuard Filtern hinzu:
