@@ -2,7 +2,7 @@
 ! Description: Whitelist for trusted domains to bypass filtering, blocking and cosmetic rules
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter-private
-! Last modified: Mon, 10 Aug 2026 20:25:30 +0000
+! Last modified: Mon, 10 Aug 2026 20:29:12 +0000
 ! Expires: 1 day
 ! License: MIT
 
