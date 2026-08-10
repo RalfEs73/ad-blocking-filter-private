@@ -2,7 +2,7 @@
 ! Description: Filters focusing on web advertising, banners, popups and sponsored content
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter-privat
-! Last modified: Mon, 10 Aug 2026 20:17:28 +0000
+! Last modified: Mon, 10 Aug 2026 20:21:11 +0000
 ! Expires: 1 day
 ! License: MIT
 
