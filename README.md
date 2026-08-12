@@ -3,7 +3,7 @@
 </p>
 
 # uBlock Origin & AdGuard Private Filter
-Letzter Update der Listen: 12.08.2026 22:32 Uhr.
+Letzter Update der Listen: 12.08.2026 22:34 Uhr.
 
 ## Einträge in den Listen
 Werbeblocker‑Filterliste: 1 Einträge  
@@ -13,10 +13,10 @@ Whitelist: 16 Einträge
 Fügen die folgenden Links zu den uBlock Origin bzw. AdGuard Filtern hinzu:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter-private/main/filters/adblock.txt
+https://raw.githubusercontent.com/RalfEs73/ad-blocking-filter-private/main/filters/adblock.txt
 ```
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter-private/main/filters/whitelist.txt
+https://raw.githubusercontent.com/RalfEs73/ad-blocking-filter-private/main/filters/whitelist.txt
 ```
 
 ### Youtube Videoanleitung
