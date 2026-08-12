@@ -2,7 +2,7 @@
 ! Description: Whitelist for trusted domains to bypass filtering, blocking and cosmetic rules
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ad-blocking-filter-private
-! Last modified: Wed, 12 Aug 2026 20:58:37 +0000
+! Last modified: Wed, 12 Aug 2026 20:59:20 +0000
 ! Expires: 1 day
 ! License: MIT
 
