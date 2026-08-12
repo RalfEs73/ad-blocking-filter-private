@@ -2,8 +2,8 @@
     <img width="275" alt="AdGuard Filters logo" src="https://cdn.adtidy.org/website/github.com/AdguardFilters/viking.svg" />
 </p>
 
-# uBlock Origin & AdGuard Private Filter
-Letzter Update der Listen: 12.08.2026 22:53 Uhr.
+# AdGuard Private Filter
+Letzter Update der Listen: 12.08.2026 22:58 Uhr.
 
 ## Einträge in den Listen
 Werbeblocker‑Filterliste: 1 Einträge  
