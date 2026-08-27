@@ -3,7 +3,7 @@
 </p>
 
 # AdGuard Private Filter
-Letzter Update der Listen: 27.08.2026 19:36 Uhr.
+Letzter Update der Listen: 28.08.2026 01:00 Uhr.
 
 ## Einträge in den Listen
 Werbeblocker‑Filterliste: 1 Einträge  
