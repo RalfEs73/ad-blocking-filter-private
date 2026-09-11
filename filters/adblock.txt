@@ -2,7 +2,7 @@
 ! Description: Filters focusing on web advertising, banners, popups and sponsored content
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ad-blocking-filter-private
-! Last modified: Fri, 11 Sep 2026 20:20:18 +0000
+! Last modified: Fri, 11 Sep 2026 23:00:41 +0000
 ! Expires: 1 day
 ! License: MIT
 
