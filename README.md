@@ -3,11 +3,11 @@
 </p>
 
 # AdGuard Private Filter
-Letzter Update der Listen: 13.11.2026 01:00 Uhr.
+Letzter Update der Listen: 14.11.2026 01:00 Uhr.
 
 ## Einträge in den Listen
 Werbeblocker‑Filterliste: 1 Einträge  
-Whitelist: 16 Einträge
+Whitelist: 17 Einträge
 
 ## How to use
 Fügen die folgenden Links zu den AdGuard Filtern hinzu:
